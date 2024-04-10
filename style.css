@@ -1,0 +1,44 @@
+.form-container {
+  max-width: 350px;
+  padding: 1rem;
+}
+
+body.inicio {
+  background-image: url(pexels-ricky-esquivel-1738655.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+}
+
+div#tabela {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  height: 90vh;
+  width: 80vw;
+  margin-left: 100px;
+}
+
+a.link {
+  color: white;
+  text-decoration: none;
+}
+a.link:hover {
+  color: rgb(79, 240, 232);
+  text-decoration: none;
+}
+
+main.centro {
+  height: 92.6vh;
+}
+
+.modal {
+  width: 300px;
+}
+.modal-content {
+  width: 300px;
+}
+.list-group-item:hover {
+  background-color: rgba(59, 57, 57, 0.164) !important;
+}

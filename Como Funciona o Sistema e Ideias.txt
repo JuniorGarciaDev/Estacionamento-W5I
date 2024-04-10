@@ -1,0 +1,53 @@
+Sistema de Gerenciamento de Estacionamento Online e Ideias de Aprimoramento
+
+Resumo: O sistema foi desenvolvido para oferecer um gerenciamento eficiente de estacionamentos online.
+
+Funcionalidades:
+
+* Cadastro de Funcionários
+* Cadastro de Veículos
+* Cadastro de Estacionamento
+* Cadastro de Categoria
+* Confirmação de Saída
+* Edição de Veículo
+* Exclusão de Veículo
+* Edição de Categoria
+* Exclusão de Categoria
+* Lista de Categorias
+* Lista de Veículos
+* Lista de Veículos Estacionados
+* Lista de Funcionários
+* Login do Estacionamento
+* Login de Funcionários
+
+Como Funciona: Os usuários podem criar uma conta para seu estacionamento e, após fazer login, podem cadastrar funcionários. Os funcionários têm a capacidade de inserir a placa e a categoria do veículo, bem como o horário de entrada, e confirmar a saída. Além disso, os usuários podem adicionar, editar e excluir categorias e veículos.
+
+Monetização: O sistema pode ser hospedado na internet e ser cobrado um valor mensal pelo seu uso, ou também pode ser vendido para outros interessados.
+
+Ideias de Aprimoramento:
+
+Implementar uma funcionalidade para gerar boletos de pagamento.
+
+Adicionar uma funcionalidade para confirmação de email via Gmail.
+
+Incluir a opção de login com a conta do Google.
+
+Desenvolver uma funcionalidade para pesquisa de veículos por placa.
+
+Melhorar a segurança e outras funcionalidades do sistema.Notificações por WhatsApp: Implementar um sistema de notificação por WhatsApp para alertar os clientes sobre a disponibilidade de vagas, confirmações de reservas ou lembretes de pagamento.
+
+Integração com sistemas de pagamento online: Adicionar suporte para pagamentos online, permitindo que os clientes paguem pelo estacionamento diretamente através do sistema, utilizando cartões de crédito, carteiras digitais ou outros métodos de pagamento online.
+
+Reservas de vagas: Desenvolver uma funcionalidade que permita aos clientes reservarem vagas de estacionamento com antecedência, garantindo que tenham uma vaga disponível quando chegarem ao estacionamento.
+
+Monitoramento de ocupação em tempo real: Implementar um sistema de monitoramento que permita aos clientes e ao pessoal do estacionamento visualizarem a ocupação atual do estacionamento em tempo real, ajudando a evitar congestionamentos e facilitando o planejamento de vagas.
+
+Feedback dos clientes: Adicionar uma seção de feedback para os clientes compartilharem suas experiências no estacionamento, permitindo que os gerentes do estacionamento coletem informações sobre áreas de melhoria e façam ajustes conforme necessário.
+
+Programa de fidelidade: Implementar um programa de fidelidade para recompensar clientes frequentes com descontos, estacionamento gratuito ou outros benefícios especiais.
+
+Suporte multilíngue: Adicionar suporte para múltiplos idiomas no sistema, permitindo que os clientes interajam com o sistema na língua de sua preferência.
+
+Reservas de serviços adicionais: Permitir que os clientes reservem serviços adicionais, como lavagem de carros, recarga de veículos elétricos ou manutenção básica, durante sua estadia no estacionamento.
+
+Integração com aplicativos de navegação: Integrar o sistema com aplicativos de navegação populares para fornecer orientações precisas aos clientes até o estacionamento, ajudando a melhorar a experiência geral do usuário.
